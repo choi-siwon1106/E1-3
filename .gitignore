@@ -1,0 +1,13 @@
+.claude/
+CLAUDE.md
+.cursor/
+.cursorrules
+.copilot/
+.github/copilot-instructions.md
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
